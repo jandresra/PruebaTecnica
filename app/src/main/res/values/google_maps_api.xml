@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!--El valor que recibe el string creado es el API Key que se recibió de la consola de google-->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-        AIzaSyB-uIniCAqEdnB0jzBIdxILrOlD-fWGu80
-    </string>
-</resources>
