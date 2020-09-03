@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zip_code">Código postal</string>
+    <string name="country">País</string>
+    <string name="entity">Entidad</string>
+    <string name="city">Ciudad</string>
+    <string name="municipality">Alcaldía o municipio</string>
+    <string name="suburb">Colonia(s)</string>
+    <string name="download_already">Ya hay una descarga en ejecución, espera un momento</string>
+    <string name="mexico">México</string>
+    <string name="download">Descargando…</string>
+    <string name="choose_mexico_zip_code">Para dibujar el polígono debes elegir un código postal de la ciudad de México</string>
+    <string name="downloading_error">Error al descargar el contenido</string>
+    <string name="downloading_canceled">Descarga cancelada</string>
+</resources>

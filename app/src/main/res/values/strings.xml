@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">PruebaTecnica</string>
+    <string name="zip_code">Zip code</string>
+    <string name="country">Country</string>
+    <string name="entity">Entity</string>
+    <string name="city">City</string>
+    <string name="municipality">Municipality</string>
+    <string name="suburb">Suburb(s)</string>
+    <string name="download_already">There is a download already, wait a moment</string>
+    <string name="mexico">Mexico</string>
+    <string name="download">Downloading…</string>
+    <string name="choose_mexico_zip_code">You must insert Mexico city\'s zip code to draw polygon</string>
+    <string name="downloading_error">Downloading error</string>
+    <string name="downloading_canceled">Downloading canceled</string>
+</resources>
